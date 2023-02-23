@@ -1,3 +1,4 @@
+![](https://github.com/viktor111/SharpCipher/actions/workflows/dotnet.yml/badge.svg)
 # SharpCipher
 SharpCipher is a C# implementation of a symmetric encryption algorithm that uses the AES encryption algorithm in CBC mode. It also employs key derivation using PBKDF2 with SHA-1 as the underlying hash function.
 
