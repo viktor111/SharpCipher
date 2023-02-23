@@ -2,6 +2,9 @@
 # SharpCipher
 SharpCipher is a C# implementation of a symmetric encryption algorithm that uses the AES encryption algorithm in CBC mode. It also employs key derivation using PBKDF2 with SHA-1 as the underlying hash function.
 
+## Download
+`dotnet add package SharpCipher`
+
 ## Usage
 To use SharpCipher, you can create a new instance of the Cipher class and call its Encrypt and Decrypt methods to encrypt and decrypt data, respectively. Here's an example:
 
